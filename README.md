@@ -1,5 +1,6 @@
 ### taupo-i18n
 ### Internationalization libraries for the Taupo project
+<br>
 If you would like to propose a translation (string change) for us, please follow the below steps:<br>
 <br>
 <b>1)</b> Login to Github (register a new account or use an existing personal account)<br>
