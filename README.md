@@ -21,6 +21,6 @@ If you would like to help us by proposing a translation (string change) then ple
 &nbsp;&nbsp;"<i>context</i>": "The text displayed for the Follow Us link."<br>
 }<br>
 <br>
-<b>5)</b> When finished, click the “Propose file change” button below the editor (adding a description of the changes is optional).<br>
+<b>5.</b> When finished with your proposed translation(s), click the “<b>Propose file change</b>” button below the editor. You can add a description of your changes in the description box if you would like;  this is optional, but recommended.<br>
 <br>
-<b>6)</b> To complete the process and send the proposed change upstream, click the Create Pull Request button (adding an explanation of the changes is again optional here).<br>
+<b>6.</b> To complete the process and submit the proposed change(s) upstream, click the "<b>Create Pull Request</b>" button. This is the final step and what sends the changes you are proposing to our developers to incorporate to our product. Again, adding a description of the changes is optional but recommended here.
