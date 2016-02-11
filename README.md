@@ -3,11 +3,14 @@
 <br>
 If you would like to propose a translation (string change) for us, please follow the below steps:<br>
 <br>
-<b>1)</b> Login to Github (register a new account or use an existing personal account)<br>
+<b>1)</b> Login to Github using an existing personal account or register as a new user. You must verify your email address with Github before you can propose any changes.<br>
 <br>
-<b>2)</b> Choose a language to translate, (currently English and Spanish are the only two choices) and then click on the appropriate locale file:<br>
-<a href="https://github.com/triune/taupo-i18n/blob/master/en.json" target="_blank">en.json</a> ENGLISH locale<br>
-<a href="https://github.com/triune/taupo-i18n/blob/master/es.json" target="_blank">es.json</a> SPANISH locale<br>
+<b>2)</b> Choose a language/locale to translate. Currently English and Spanish are the only two locales we support, but we will be adding more in the future. Once you know which language you would like to work on, navigate to the specific language's locale file:<br>
+<br>
+| Locale File | Language |
+| ----------- | -------- |
+| <a href="https://github.com/triune/taupo-i18n/blob/master/en.json" target="_blank">en.json</a> | ENGLISH |
+| <a href="https://github.com/triune/taupo-i18n/blob/master/es.json" target="_blank">es.json</a> | SPANISH |
 <br>
 <b>3)</b> Click the Pencil button to edit the locale file.<br>
 <br>
