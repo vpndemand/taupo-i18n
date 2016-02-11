@@ -3,7 +3,7 @@
 <br>
 If you would like to help us by proposing a translation (string change) then please follow the below steps...<br>
 <br>
-<b>1.</b> Login to Github using an existing personal account or register as a new user. You must verify your email address with Github before you can propose any changes.<br>
+<b>1.</b> Login to Github using an existing personal account or register as a new user. <i>You must verify your email address with Github before you can propose any changes.</i><br>
 <br>
 <b>2.</b> Choose a language to translate. Currently English and Spanish are the only two languages we support, but we will be adding more in the future. Once you know which language you would like to work on, navigate to the specific language's locale file via the links in the table below. Clicking a link to a locale file will open the file in a new tab so that you may refer back here to continue following these instructuions.<br>
 <table>
