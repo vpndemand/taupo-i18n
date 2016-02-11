@@ -1,19 +1,18 @@
 ### taupo-i18n
 ### Internationalization libraries for the Taupo project
 <br>
-If you would like to propose a translation (string change) for us, please follow the below steps:<br>
+If you would like to help us by proposing a translation (string change) then please follow the below steps...<br>
 <br>
-<b>1)</b> Login to Github using an existing personal account or register as a new user. You must verify your email address with Github before you can propose any changes.<br>
+<b>1.</b> Login to Github using an existing personal account or register as a new user. You must verify your email address with Github before you can propose any changes.<br>
 <br>
-<b>2)</b> Choose a language/locale to translate. Currently English and Spanish are the only two locales we support, but we will be adding more in the future. Once you know which language you would like to work on, navigate to the specific language's locale file:<br>
-<br>
+<b>2.</b> Choose a language to translate. Currently English and Spanish are the only two languages we support, but we will be adding more in the future. Once you know which language you would like to work on, navigate to the specific language's locale file via the links in the table below. Clicking a link to a locale file will open the file in a new tab so that you may refer back here to continue following these instructuions.<br>
 <table>
 <tr><td><b>Locale File</b></td><td><b>Language</b></td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/en.json" target="_blank">en.json</a></td><td>ENGLISH</td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/es.json" target="_blank">es.json</a></td><td>SPANISH</td></tr>
 </table>
 <br>
-<b>3)</b> Click the Pencil button to edit the locale file.<br>
+<b>3.</b> Click the <b>Pencil button</b> above the file viewer to open the editor on this particular locale file.<br>
 <br>
 <b>4)</b> Make all suggested string / translation changes in the provided editor.<br>
 <br>
