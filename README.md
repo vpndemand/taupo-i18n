@@ -11,6 +11,7 @@ If you would like to propose a translation (string change) for us, please follow
 <tr><td><b>Locale File</b></td><td><b>Language</b></td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/en.json" target="_blank">en.json</a></td><td>ENGLISH</td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/es.json" target="_blank">es.json</a></td><td>SPANISH</td></tr>
+</table>
 <br>
 <b>3)</b> Click the Pencil button to edit the locale file.<br>
 <br>
