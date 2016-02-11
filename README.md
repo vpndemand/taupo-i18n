@@ -16,9 +16,9 @@ If you would like to help us by proposing a translation (string change) then ple
 <br>
 <b>4.</b> Make all suggested string / translation changes in the provided editor. The example translation below shows the string's msg-id: <i>textTrademark</i>, the <i>message</i>, and the <i>context</i>. If you feel that you can improve upon this translation, edit the word, phrase, or sentence. In this example, the only thing you should change is highlighted in <b>bold.</b> You should not change anything else. The context here is provided to help you propose a better translation by offering a little more information on how, where, and what this particular string is used for.<br>
 <br>
-"<i>textTrademark</i>": {<br>
-&nbsp;&nbsp;"<i>message</i>": "<b>PEOPLE LOCATOR, ReUnite, and TriagePic are registered trademarks of the U.S. Department of Health and Human Services.</b>",<br>
-  "<i>context</i>": "Verbiage describing the three registered trademarks we hold on People Locator."<br>
+"<i>linkFollowUs</i>": {<br>
+&nbsp;&nbsp;"<i>message</i>": "<b>Follow Us</b>",<br>
+&nbsp;&nbsp;"<i>context</i>": "The text displayed for the Follow Us link."<br>
 }<br>
 <br>
 <b>5)</b> When finished, click the “Propose file change” button below the editor (adding a description of the changes is optional).<br>
