@@ -14,10 +14,13 @@ If you would like to help us by proposing a translation (string change) then ple
 <br>
 <b>3.</b> Click the <b>Pencil button</b> above the file viewer to open the editor on this particular locale file. If you cannot click on the pencil button because it is greyed out, you must go back and verify the email address on your Github account first.<br>
 <br>
-<b>4.</b> Make all suggested string / translation changes in the provided editor. The example translation below shows one particular string's<br>
+<b>4.</b> Make all suggested string / translation changes in the provided editor.<br>
+In the example string translation below we see one particular string's:<br>
+<br>
 msg-id: <i>linkFollowUs</i><br>
 <i>message</i>: <b>Follow Us</b><br>
 <i>context</i>: The text displayed for the Follow Us link.<br>
+<br>
 If you feel that you can improve upon this translation, edit the word, phrase, or sentence. In this example, the only thing you should change is highlighted in <b>bold.</b> You should not change anything else. The context here is provided to help you propose a better translation by offering a little more information on how, where, and what this particular string is used for.<br>
 <br>
 "<i>linkFollowUs</i>": {<br>
