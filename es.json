@@ -1,0 +1,298 @@
+{
+  "languageSelector": {
+    "message": "Idioma",
+    "context": "The word used to descibe the language selection menu button."
+  },
+  "chosenLanguage": {
+    "message": "Español",
+    "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
+  },
+  "loginOrRegister": {
+    "message": "Inicie sesión o Registro",
+    "context": "A button that when clicked allows a user to login or register."
+  },
+  "logout": {
+    "message": "Cerrar sesión",
+    "context": "A label for a button allowing a user to logout."
+  },
+  "administration": {
+    "message": "Administración",
+    "context": "A label for a button allowing a user to access the Administraion module."
+  },
+  "linkAbout": {
+    "message": "Acerca de",
+    "context": "The link text for the About link."
+  },
+  "linkPrivacy": {
+    "message": "Intimidad",
+    "context": "The link text for the Privacy link."
+  },
+  "linkAccessibility": {
+    "message": "Accesibilidad",
+    "context": "The link text for the Accessibility link."
+  },
+  "linkContact": {
+    "message": "Contactar",
+    "context": "The link text for the Contact link."
+  },
+  "linkApps": {
+    "message": "Aplicaciones",
+    "context": "The link text for the Apps link."
+  },
+  "linkResources": {
+    "message": "Recursos",
+    "context": "The link text for the Resources link."
+  },
+  "linkFollowUs": {
+    "message": "Síguenos",
+    "context": "The link text for the Follow Us link."
+  },
+  "linkTrademark": {
+    "message": "Marca",
+    "context": "The link text for the Trademark link."
+  },
+  "textTrademark": {
+    "message": "PEOPLE LOCATOR, ReUnite, and TriagePic son marcas comerciales registradas de el Departamento de Salud y Servicios Humanos de Estados Unidos.",
+    "context": "Verbiage describing the three registered trademarks we hold on People Locator."
+  },
+  "expirationDate": {
+    "message": "FECHA DE CADUCIDAD",
+    "context": "Verbiage describing the expiration date of the OMB notice."
+  },
+  "plusError1": {
+    "message": "Error: Nombre de usuario o contraseña no válidos",
+    "context": "Error message presented when a user provides the incorrect username and/or password."
+  },
+  "plusError2": {
+    "message": "Error: la cuenta está bloqueada temporalmente por repetida, no ingresar, intente más tarde",
+    "context": "Error message presented when a user fails to login repeatedly."
+  },
+  "plusError6": {
+    "message": "Error: un usuario ya existe con el proporcionado la dirección de correo electrónico proporcionada",
+    "context": "Error message presented when user tries to use an email address already in use."
+  },
+  "plusError7": {
+    "message": "Error: el nombre de usuario que ya ha proporcionado no está disponible",
+    "context": "Error message presented when a user attempts to register with a username that is already in use by another user."
+  },
+  "plusError8": {
+    "message": "Error: la dirección de email no es válida",
+    "context": "Error message presented when a user provides an invalid email address."
+  },
+  "plusError9": {
+    "message": "Error: la contraseña debe tener 8-16 caracteres de longitud, debe tener al menos una mayúscula, una minúscula y un carácter numérico",
+    "context": "Error message presented when user enters an invalid password."
+  },
+  "plusError11": {
+    "message": "Error: la dirección de correo electrónico proporcionada no está asociado con cualquier cuenta de usuario",
+    "context": "Error message presented when user attempts to reset password with an unregistered email address."
+  },
+  "plusError14": {
+    "message": "Error: resultado de la prueba de validación humana incorrecto, por favor vuelva a cargar la página",
+    "context": "Error message presented when the captcha system encounters invalid data."
+  },
+  "plusError15": {
+    "message": "Error: sesión reCaptcha caducado, por favor vuelva a cargar la página",
+    "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue."
+  },
+  "plusError16": {
+    "message": "Error: contraseñas no coinciden",
+    "context": "Error message presented when entered password do not match one another."
+  },
+  "plusError20": {
+    "message": "Error: la contraseña debe tener 8-16 caracteres de longitud",
+    "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
+  },
+  "plusError21": {
+    "message": "Error: la contraseña debe contener al menos una letra mayúscula (A-Z)",
+    "context": "Error message presented when entered password does not contain at least one uppercase letter."
+  },
+  "plusError22": {
+    "message": "Error: la contraseña debe contener al menos una letra en minúscula (a-z)",
+    "context": "Error message presented when entered password does not contain at least one lowercase letter."
+  },
+  "plusError23": {
+    "message": "Error: la contraseña debe contener al menos un número (0-9)",
+    "context": "Error message presented when entered password does not contain at least one digit."
+  },
+  "plusError100": {
+    "message": "Error de red. Por favor verifique su conexión e intente de nuevo.",
+    "context": "Error message presented when there is a network / internet issue."
+  },
+  "plusError600": {
+    "message": "Error: No se puede seguir un registro que no existe o no tiene privilegio de acceso",
+    "context": "Error message presented when user attempts to follow a record they have no permission to access."
+  },
+  "plusError601": {
+    "message": "Error: No se puede seguir este registro ya que ya está siguiendo",
+    "context": "Error message presented when attempting to follow a record the user is already following."
+  },
+  "plusError602": {
+    "message": "Error: No se puede dejar de seguir este registro ya que no están actualmente siguiendo lo",
+    "context": "Error message presented when "
+  },
+  "plusError9999": {
+    "message": "Un error desconocido a ocurrido.",
+    "context": "Error message presented when an unknown error has occurred."
+  },
+  "errorGettingSubscription": {
+    "message": "Error al obtener información de suscripción. Por favor recarga la página.",
+    "context": "This error will be displayed when an error is encountered while loading the user subscription information."
+  },
+  "errorUnsubscribing": {
+    "message": "Hubo un error al darse de baja.",
+    "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
+  },
+  "notifyLogin": {
+    "message": "Conectado.",
+    "context": "This notification will appear after the user successfully logs in."
+  },
+  "notifyLoginAdmin": {
+    "message": "Ingresar con éxito, para acceder a los eventos privilegiados o módulos Vuelve a cargar la página.",
+    "context": "This notification will appear after an administrator successfully logs in."
+  },
+  "notifyRegister": {
+    "message": "Ahora está registrado y conectado.",
+    "context": "This notification will appear after the user newly registers and is automatically logged in."
+  },
+  "notifyRegistering": {
+    "message": "Registrando...",
+    "context": "This notification will appear briefly as the system registers and creates a new account for the user."
+  },
+  "notifyPasswordChanged": {
+    "message": "Contraseña cambiada correctamente.",
+    "context": "This notification will appear after the user successfully changes their password."
+  },
+  "notifyRecordUnfollowed": {
+    "message": "Grabar ONU-seguido.",
+    "context": "This notification will appear after the user unfollows a particular record."
+  },
+  "notifyUnsubscribed": {
+    "message": "Ya no estás suscrito para recibir notificaciones.",
+    "context": "This notification will appear after the user unsubscribed from recieving notifications."
+  },
+  "notifySubscribed": {
+    "message": "Ahora está suscrito para recibir notificaciones.",
+    "context": "This notification will appear after the user subscribes to recieving notifications."
+  },
+  "notifyResetPassword": {
+    "message": "Se le ha enviado por correo electrónico las instrucciones de cómo restablecer su contraseña.",
+    "context": "This notification appears when a user has successfully sent a request to reset their password."
+  },
+  "pad1login": {
+    "message": "Iniciar sesión",
+    "context": "This is the name of the first tab of the user dialog allowing a user to login."
+  },
+  "pad1register": {
+    "message": "Registro",
+    "context": "This is the name of the second tab of the user dialog allowing a user to register."
+  },
+  "pad1forgotText": {
+    "message": "Introduzca su dirección de correo electrónico y le enviaremos instrucciones de cómo restablecer su contraseña.",
+    "context": "This text informs the user of what they must do in order to reset their password ~ they must enter their email address."
+  },
+  "pad1forgotSend": {
+    "message": "Enviar",
+    "context": "This is the text label on the forgot my password dialog to submit the form."
+  },
+  "pad1loginForgot": {
+    "message": "Olvidaste tu nombre de usuario o contraseña ?",
+    "context": "This is the text label for the forgot my password button on the login dialog."
+  },
+  "pad1loginUsernamePlaceholder": {
+    "message": "Nombre de usuario",
+    "context": "This is the placeholder text for the username input."
+  },
+  "pad1loginPasswordPlaceholder": {
+    "message": "Clave",
+    "context": "This is the placeholder text for the password input."
+  },
+  "pad1registerEmailPlaceholder": {
+    "message": "Email",
+    "context": "This is the placeholder text for the email input."
+  },
+  "pad1registerText": {
+    "message": "Su contraseña debe contener un número, una letra minúscula, una letra mayúscula, y ser de 8-16 caracteres de longitud.",
+    "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
+  },
+  "pad2notice": {
+    "message": "Aviso",
+    "context": "This is the first word of the OMB notice."
+  },
+  "pad2submission": {
+    "message": "Presentación de la información es de carácter voluntario. Toda la información presentada se pondrá a disposición del público.",
+    "context": "These are the first two sentences of the OMB notice."
+  },
+  "pad2text": {
+    "message": "La carga pública para esta recopilación de información se estima en un promedio de 3 minutos por respuesta. Esta estimación incluye el tiempo para revisar las instrucciones, la recolección y la introducción de datos. Una agencia no puede realizar o patrocinar, y una persona no está obligada a responder a una solicitud de información a menos que muestre un número de control OMB válido. Los comentarios sobre el estimado de tiempo o cualquier otro aspecto de esta recopilación de información, incluyendo sugerencias para reducir esta carga, a:",
+    "context": "This is the main paragraph of the OMB notice."
+  },
+  "pad2sub": {
+    "message": "He leído y acepto esto.",
+    "context": "This is the label for the OMB notice agreement button."
+  },
+  "pad3following": {
+    "message": "Siguientes Registros",
+    "context": "This is the name of the first tab of user preferences that shows which records a user is following."
+  },
+  "pad3settings": {
+    "message": "Ajustes",
+    "context": "This is the name of the second tab of user preferences that shows user settings."
+  },
+  "pad3loading": {
+    "message": "Cargando",
+    "context": "This word is displayed when the following records tab is loading results from the server."
+  },
+  "pad3emptyFollow": {
+    "message": "No está siguiendo ningún registro.",
+    "context": "This verbiage is displayed when the following records panel is displayed and the user is not following any records."
+  },
+  "pad3unFollow": {
+    "message": "Dejar de seguir",
+    "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
+  },
+  "pad3subStatusUnsubscribed": {
+    "message": "UNSUBSCRIBED",
+    "context": "This text label tells the status of the user's subscription to recieve notifications."
+  },
+  "pad3subStatusSubscribed": {
+    "message": "SUSCRITO",
+    "context": "This text label tells the status of the user being subscribed to recieve notifications."
+  },
+  "pad3subscribeTo": {
+    "message": "Suscribirse a las notificaciones",
+    "context": "This is the title text to the section that allows a user to opt-in to recieve push notifications."
+  },
+  "pad3Time": {
+    "message": "De vez en cuando, es posible enviar notificaciones a los usuarios cuando se crea un nuevo evento.",
+    "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
+  },
+  "pad3changePasswordButton": {
+    "message": "Cambiar la contraseña",
+    "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
+  },
+  "pad3passwordRequirements": {
+    "message": "Su contraseña debe contener un número, una letra minúscula, una letra mayúscula, y ser de 8-16 caracteres de longitud.",
+    "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
+  },
+  "pad3oldPasswordPlaceholder": {
+    "message": "Anterior Contraseña",
+    "context": "This is the placeholder text for the old password input."
+  },
+  "pad3newPassword1Placeholder": {
+    "message": "Nueva Contraseña",
+    "context": "This is the placeholder text for the new password input."
+  },
+  "pad3newPassword2Placeholder": {
+    "message": "Nueva Contraseña de Nuevo",
+    "context": "This is the placeholder text for the new password again input."
+  },
+  "pushNotificationsUnsupported": {
+    "message": "Su navegador no es compatible con las notificaciones push.",
+    "context": "This text tells the user that their current web browser does not support the push notification feature."
+  },
+  "pushNotificationsDisallowed": {
+    "message": "Usted prohibido este sitio muestre notificaciones. Debe volver a habilitar este permiso para utilizar esta función.",
+    "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
+  }
+}
