@@ -15,6 +15,7 @@ If you would like to help us by proposing a translation (string change) then ple
 <b>3.</b> Click the <b>Pencil button</b> above the file viewer to open the editor on this particular locale file. If you cannot click on the pencil button because it is greyed out, you must go back and verify the email address on your Github account first.<br>
 <br>
 <b>4.</b> Make all suggested string / translation changes in the provided editor.<br>
+<br>
 In the example string translation below we see one particular string's:<br>
 <br>
 msg-id: <i>linkFollowUs</i><br>
