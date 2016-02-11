@@ -12,15 +12,13 @@ If you would like to help us by proposing a translation (string change) then ple
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/es.json" target="_blank">es.json</a></td><td>SPANISH</td></tr>
 </table>
 <br>
-<b>3.</b> Click the <b>Pencil button</b> above the file viewer to open the editor on this particular locale file. If you cannot click on the pencil button because it is greyed out, you must verify the email address on your Github account.<br>
+<b>3.</b> Click the <b>Pencil button</b> above the file viewer to open the editor on this particular locale file. If you cannot click on the pencil button because it is greyed out, you must go back and verify the email address on your Github account first.<br>
 <br>
-<b>4)</b> Make all suggested string / translation changes in the provided editor.<br>
+<b>4.</b> Make all suggested string / translation changes in the provided editor. The example translation below shows the string's msg-id: <i>textTrademark</i>, the <i>message</i>, and the <i>context</i>. If you feel that you can improve upon this translation, edit the word, phrase, or sentence. In this example, the only thing you should change is highlighted in <b>bold.</b> You should not change anything else. The context here is provided to help you propose a better translation by offering a little more information on how, where, and what this particular string is used for.<br>
 <br>
-The example string below shows the string's msg-id: <b>textTrademark</b>, the <b>message</b>, and the <b>context</b>. If you feel that you can improve on the translation offered in the message body, edit this word, phrase, or sentence. This is the only place you should make any changes.<br>
-<br>
-"textTrademark": {<br>
-  "message": "PEOPLE LOCATOR, ReUnite, and TriagePic are registered trademarks of the U.S. Department of Health and Human Services.",<br>
-  "context": "Verbiage describing the three registered trademarks we hold on People Locator."<br>
+"<i>textTrademark</i>": {<br>
+&nbsp;&nbsp;"<i>message</i>": "<b>PEOPLE LOCATOR, ReUnite, and TriagePic are registered trademarks of the U.S. Department of Health and Human Services.</b>",<br>
+  "<i>context</i>": "Verbiage describing the three registered trademarks we hold on People Locator."<br>
 }<br>
 <br>
 <b>5)</b> When finished, click the “Propose file change” button below the editor (adding a description of the changes is optional).<br>
