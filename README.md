@@ -5,7 +5,7 @@ If you would like to help us by proposing a translation then please follow the b
 <br>
 <b>1.</b> Login to Github using an existing personal account or register as a new user. You must verify your email address with Github before you can propose any changes.<br>
 <br>
-<b>2.</b> Choose a language to translate. Currently English and Spanish are the only two languages we support, but we will be adding additional languages in the future. Once you have decided which language you would like to work on, navigate to the specific language's locale file via one of the links from the table below. Clicking a link to a locale file will open the file in a new tab so that you may refer back here to continue following these instructuions.<br>
+<b>2.</b> Choose a language to translate. Currently English and Spanish are the only two languages we support, but we will be adding additional languages in the future. Once you have decided which language you would like to work on, navigate to the specific language's locale file via one of the links from the table below. Clicking a link to a locale file will open the file in a new tab so that you may refer back here to continue following these instructions.<br>
 <table>
 <tr><td><b>Locale File</b></td><td><b>Language</b></td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/en.json" target="_blank">en.json</a></td><td>ENGLISH</td></tr>
