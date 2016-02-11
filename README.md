@@ -22,7 +22,7 @@ msg-id: <i>linkFollowUs</i><br>
 <i>message</i>: <b>Follow Us</b><br>
 <i>context</i>: The text displayed for the Follow Us link.<br>
 <br>
-If you feel that you can improve upon this translation, edit the word, phrase, or sentence contained in the message body. In this example, the only thing you should change is the message body which is highlighted in bold <b>Follow Us</b>. You should not change anything else in the file. The context here is provided to help you propose a better translation by offering a little more information on how, where, and what this particular translation (string) is used for.<br>
+If you feel that you can improve upon this translation, edit the word, phrase, or sentence contained in the message body. In this example, the only thing you should change is the message body which is highlighted in bold: <b>Follow Us</b>. You should not change anything else. The context here is provided to help you propose a better translation by offering a little more information on how, where, and what this particular translation (string) is used for.<br>
 <br>
 <table><tr><td>
 "<i>linkFollowUs</i>": {<br>
