@@ -27,7 +27,7 @@ If you feel that you can improve upon this translation, edit the word, phrase, o
 "<i>linkFollowUs</i>": {<br>
 &nbsp;&nbsp;"<i>message</i>": "<b>Follow Us</b>",<br>
 &nbsp;&nbsp;"<i>context</i>": "The text displayed for the Follow Us link."<br>
-}<td></tr></table>
+}</td></tr></table>
 <br>
 <b>5.</b> When finished with your proposed translation(s), click the “<b>Propose file change</b>” button below the editor. You can add a description of your changes in the description box if you would like;  this is optional, but recommended.<br>
 <br>
