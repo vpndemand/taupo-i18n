@@ -1,7 +1,7 @@
 ### taupo-i18n
 ### Internationalization libraries for the Taupo project
 <br>
-If you would like to help us by proposing a translation (string change) then please follow the below steps...<br>
+If you would like to help us by proposing a translation then please follow the below steps...<br>
 <br>
 <b>1.</b> Login to Github using an existing personal account or register as a new user. You must verify your email address with Github before you can propose any changes.<br>
 <br>
