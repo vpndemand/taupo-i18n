@@ -1,0 +1,298 @@
+{
+  "languageSelector": {
+    "message": "Language",
+    "context": "Language as a single word used in the langiage selection menu."
+  },
+  "chosenLanguage": {
+    "message": "English",
+    "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
+  },
+  "loginOrRegister": {
+    "message": "Login or Register",
+    "context": "A button that when clicked allows a user to login or register."
+  },
+  "logout": {
+    "message": "Logout",
+    "context": "A label for a button allowing a user to logout."
+  },
+  "administration": {
+    "message": "Administration",
+    "context": "A label for a button allowing a user to access the Administraion module."
+  },
+  "linkAbout": {
+    "message": "About",
+    "context": "The link text for the About link."
+  },
+  "linkPrivacy": {
+    "message": "Privacy",
+    "context": "The link text for the Privacy link."
+  },
+  "linkAccessibility": {
+    "message": "Accessibility",
+    "context": "The link text for the Accessibility link."
+  },
+  "linkContact": {
+    "message": "Contact",
+    "context": "The link text for the Contact link."
+  },
+  "linkApps": {
+    "message": "Apps",
+    "context": "The link text for the Apps link."
+  },
+  "linkResources": {
+    "message": "Resources",
+    "context": "The link text for the Resources link."
+  },
+  "linkFollowUs": {
+    "message": "Follow Us",
+    "context": "The link text for the Follow Us link."
+  },
+  "linkTrademark": {
+    "message": "Trademark",
+    "context": "The link text for the Trademark link."
+  },
+  "textTrademark": {
+    "message": "PEOPLE LOCATOR, ReUnite, and TriagePic are registered trademarks of the U.S. Department of Health and Human Services.",
+    "context": "Verbiage describing the three registered trademarks we hold on People Locator."
+  },
+  "expirationDate": {
+    "message": "EXPIRATION DATE",
+    "context": "Verbiage describing the expiration date of the OMB notice."
+  },
+  "plusError1": {
+    "message": "Error: invalid username or password",
+    "context": "Error message presented when a user provides the incorrect username and/or password."
+  },
+  "plusError2": {
+    "message": "Error: your account is temporarily locked for repeatedly failing to login, try again later",
+    "context": "Error message presented when a user fails to login repeatedly."
+  },
+  "plusError6": {
+    "message": "Error: a user already exists with provided the provided email address",
+    "context": "Error message presented when user tries to use an email address already in use."
+  },
+  "plusError7": {
+    "message": "Error: the username you provided is not available",
+    "context": "Error message presented when a user attempts to register with a username that is already in use by another user."
+  },
+  "plusError8": {
+    "message": "Error: invalid email address",
+    "context": "Error message presented when a user provides an invalid email address."
+  },
+  "plusError9": {
+    "message": "Error: password must be 8-16 characters in length, must have at least one uppercase, one lowercase, and one numeric character",
+    "context": "Error message presented when user enters an invalid password."
+  },
+  "plusError11": {
+    "message": "Error: the email address provided is not associated with any user account",
+    "context": "Error message presented when user attempts to reset password with an unregistered email address."
+  },
+  "plusError14": {
+    "message": "Error: incorrect human validation test result, please reload the page",
+    "context": "Error message presented when the captcha system encounters invalid data."
+  },
+  "plusError15": {
+    "message": "Error: reCaptcha session expired, please reload the page",
+    "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue."
+  },
+  "plusError16": {
+    "message": "Error: passwords do not match",
+    "context": "Error message presented when entered password do not match one another."
+  },
+  "plusError20": {
+    "message": "Error: password must be 8-16 characters long",
+    "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
+  },
+  "plusError21": {
+    "message": "Error: password must contain at least one uppercase letter (A-Z)",
+    "context": "Error message presented when entered password does not contain at least one uppercase letter."
+  },
+  "plusError22": {
+    "message": "Error: password must contain at least one lowercase letter (a-z)",
+    "context": "Error message presented when entered password does not contain at least one lowercase letter."
+  },
+  "plusError23": {
+    "message": "Error: password must contain at least one number (0-9)",
+    "context": "Error message presented when entered password does not contain at least one digit."
+  },
+  "plusError100": {
+    "message": "Network error. Please check your connection and try again.",
+    "context": "Error message presented when there is a network / internet issue."
+  },
+  "plusError600": {
+    "message": "Error: cannot follow a record that does not exist or you do not have privilege to access",
+    "context": "Error message presented when user attempts to follow a record they have no permission to access."
+  },
+  "plusError601": {
+    "message": "Error: cannot follow this record since you are already following it",
+    "context": "Error message presented when attempting to follow a record the user is already following."
+  },
+  "plusError602": {
+    "message": "Error: cannot unfollow this record since you are not currently following it",
+    "context": "Error message presented when "
+  },
+  "plusError9999": {
+    "message": "An unknown error has occurred.",
+    "context": "Error message presented when an unknown error has occurred."
+  },
+  "errorGettingSubscription": {
+    "message": "Error getting subscription information. Please reload the page.",
+    "context": "This error will be displayed when an error is encountered while loading the user subscription information."
+  },
+  "errorUnsubscribing": {
+    "message": "There was an error while unsubscribing.",
+    "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
+  },
+  "notifyLogin": {
+    "message": "Logged in.",
+    "context": "This notification will appear after the user successfully logs in."
+  },
+  "notifyLoginAdmin": {
+    "message": "Login successful, to access privileged events or modules please reload the page.",
+    "context": "This notification will appear after an administrator successfully logs in."
+  },
+  "notifyRegister": {
+    "message": "You are now registered and logged in.",
+    "context": "This notification will appear after the user newly registers and is automatically logged in."
+  },
+  "notifyRegistering": {
+    "message": "Registering...",
+    "context": "This notification will appear briefly as the system registers and creates a new account for the user."
+  },
+  "notifyPasswordChanged": {
+    "message": "Password successfully changed.",
+    "context": "This notification will appear after the user successfully changes their password."
+  },
+  "notifyRecordUnfollowed": {
+    "message": "Record unfollowed.",
+    "context": "This notification will appear after the user unfollows a particular record."
+  },
+  "notifyUnsubscribed": {
+    "message": "You are no longer subscribed to recieve notifications.",
+    "context": "This notification will appear after the user unsubscribed from recieving notifications."
+  },
+  "notifySubscribed": {
+    "message": "You are now subscribed to recieve notifications.",
+    "context": "This notification will appear after the user subscribes to recieving notifications."
+  },
+  "notifyResetPassword": {
+    "message": "You have been emailed instructions how to reset your password.",
+    "context": "This notification appears when a user has successfully sent a request to reset their password."
+  },
+  "pad1login": {
+    "message": "Login",
+    "context": "This is the name of the first tab of the user dialog allowing a user to login."
+  },
+  "pad1register": {
+    "message": "Register",
+    "context": "This is the name of the second tab of the user dialog allowing a user to register."
+  },
+  "pad1forgotText": {
+    "message": "Enter your email address and we will send you instructions how to reset your password.",
+    "context": "This text informs the user of what they must do in order to reset their password ~ they must enter their email address."
+  },
+  "pad1forgotSend": {
+    "message": "Send",
+    "context": "This is the text label on the forgot my password dialog to submit the form."
+  },
+  "pad1loginForgot": {
+    "message": "Forgot username or password ?",
+    "context": "This is the text label for the forgot my password button on the login dialog."
+  },
+  "pad1loginUsernamePlaceholder": {
+    "message": "Username",
+    "context": "This is the placeholder text for the username input."
+  },
+  "pad1loginPasswordPlaceholder": {
+    "message": "Password",
+    "context": "This is the placeholder text for the password input."
+  },
+  "pad1registerEmailPlaceholder": {
+    "message": "Email",
+    "context": "This is the placeholder text for the email input."
+  },
+  "pad1registerText": {
+    "message": "Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
+    "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
+  },
+  "pad2notice": {
+    "message": "Notice",
+    "context": "This is the first word of the OMB notice."
+  },
+  "pad2submission": {
+    "message": "Submission of information is voluntary. All submitted information will be made publicly available.",
+    "context": "These are the first two sentences of the OMB notice."
+  },
+  "pad2text": {
+    "message": "Public reporting burden for this collection of information is estimated to average 3 minutes per response. This estimate includes the time for reviewing instructions, gathering, and entering data. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to:",
+    "context": "This is the main paragraph of the OMB notice."
+  },
+  "pad2sub": {
+    "message": "I have read this and agree.",
+    "context": "This is the label for the OMB notice agreement button."
+  },
+  "pad3following": {
+    "message": "Following Records",
+    "context": "This is the name of the first tab of user preferences that shows which records a user is following."
+  },
+  "pad3settings": {
+    "message": "Settings",
+    "context": "This is the name of the second tab of user preferences that shows user settings."
+  },
+  "pad3loading": {
+    "message": "Loading",
+    "context": "This word is displayed when the following records tab is loading results from the server."
+  },
+  "pad3emptyFollow": {
+    "message": "You are not following any records.",
+    "context": "This verbiage is displayed when the following records panel is displayed and the user is not following any records."
+  },
+  "pad3unFollow": {
+    "message": "Unfollow",
+    "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
+  },
+  "pad3subStatusUnsubscribed": {
+    "message": "UNSUBSCRIBED",
+    "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
+  },
+  "pad3subStatusSubscribed": {
+    "message": "SUBSCRIBED",
+    "context": "This text label tells the status of the user being subscribed to recieve notifications."
+  },
+  "pad3subscribeTo": {
+    "message": "Subscribe to notifications",
+    "context": "This is the title text to the section that allows a user to opt-in to recieve push notifications."
+  },
+  "pad3Time": {
+    "message": "From time to time, we may send out notifications to our users when a new event is created.",
+    "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
+  },
+  "pad3changePasswordButton": {
+    "message": "Change Password",
+    "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
+  },
+  "pad3passwordRequirements": {
+    "message": "Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
+    "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
+  },
+  "pad3oldPasswordPlaceholder": {
+    "message": "Old Password",
+    "context": "This is the placeholder text for the old password input."
+  },
+  "pad3newPassword1Placeholder": {
+    "message": "New Password",
+    "context": "This is the placeholder text for the new password input."
+  },
+  "pad3newPassword2Placeholder": {
+    "message": "New Password Again",
+    "context": "This is the placeholder text for the new password again input."
+  },
+    "pushNotificationsUnsupported": {
+    "message": "Your browser does not support push notifications.",
+    "context": "This text tells the user that their current web browser does not support the push notification feature."
+  },
+  "pushNotificationsDisallowed": {
+    "message": "You prohibited this site from displaying notifications. You must re-enable this permission to use this feature.",
+    "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
+  }  
+}
