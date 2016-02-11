@@ -23,10 +23,11 @@ msg-id: <i>linkFollowUs</i><br>
 <br>
 If you feel that you can improve upon this translation, edit the word, phrase, or sentence. In this example, the only thing you should change is highlighted in <b>bold.</b> You should not change anything else. The context here is provided to help you propose a better translation by offering a little more information on how, where, and what this particular string is used for.<br>
 <br>
+<table><tr><td>
 "<i>linkFollowUs</i>": {<br>
 &nbsp;&nbsp;"<i>message</i>": "<b>Follow Us</b>",<br>
 &nbsp;&nbsp;"<i>context</i>": "The text displayed for the Follow Us link."<br>
-}<br>
+}<td></tr></table>
 <br>
 <b>5.</b> When finished with your proposed translation(s), click the “<b>Propose file change</b>” button below the editor. You can add a description of your changes in the description box if you would like;  this is optional, but recommended.<br>
 <br>
