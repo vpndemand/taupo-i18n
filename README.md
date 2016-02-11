@@ -25,6 +25,5 @@ If you would like to help us by proposing a translation (string change) then ple
 <br>
 <b>6.</b> To complete the process and submit the proposed change(s) upstream, click the "<b>Create Pull Request</b>" button. This is the final step and what sends the changes you are proposing to our developers to incorporate in to our product. Again, adding a description of the changes is optional here, but recommended.<br>
 <br>
-<br>
 Happy translating!<br>
 //G
