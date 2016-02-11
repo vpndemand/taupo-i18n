@@ -7,10 +7,10 @@ If you would like to propose a translation (string change) for us, please follow
 <br>
 <b>2)</b> Choose a language/locale to translate. Currently English and Spanish are the only two locales we support, but we will be adding more in the future. Once you know which language you would like to work on, navigate to the specific language's locale file:<br>
 <br>
-| Locale File | Language |
-| ----------- | -------- |
-| <a href="https://github.com/triune/taupo-i18n/blob/master/en.json" target="_blank">en.json</a> | ENGLISH |
-| <a href="https://github.com/triune/taupo-i18n/blob/master/es.json" target="_blank">es.json</a> | SPANISH |
+<table>
+<tr><td><b>Locale File</b></td><td><b>Language</b></td></tr>
+<tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/en.json" target="_blank">en.json</a></td><td>ENGLISH</td></tr>
+<tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/es.json" target="_blank">es.json</a></td><td>SPANISH</td></tr>
 <br>
 <b>3)</b> Click the Pencil button to edit the locale file.<br>
 <br>
