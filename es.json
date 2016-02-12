@@ -1,10 +1,10 @@
 {
   "languageSelector": {
-    "message": "Idioma",
+    "message": "1Idioma",
     "context": "The word used to descibe the language selection menu button."
   },
   "chosenLanguage": {
-    "message": "Español",
+    "message": "1Español",
     "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
   },
   "loginOrRegister": {
