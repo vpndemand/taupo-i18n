@@ -15,8 +15,8 @@ If you would like to help us by proposing a translation then please follow the b
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/ta.json" target="_blank">ta.json</a></td><td>Tamil</td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/ur.json" target="_blank">ur.json</a></td><td>Urdu</td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/vi.json" target="_blank">vi.json</a></td><td>Vietnamese</td></tr>
-<tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/zh_CN.json" target="_blank">zh_CN.json</a></td><td>Chinese (China)</td></tr>
-<tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/zh_TW.json" target="_blank">zh_TW.json</a></td><td>Chinese (Taiwan)</td></tr>
+<tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/zh_CN.json" target="_blank">zh_CN.json</a></td><td>Chinese / China</td></tr>
+<tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/zh_TW.json" target="_blank">zh_TW.json</a></td><td>Chinese / Taiwan</td></tr>
 </table>
 <br>
 <b>3.</b> Click the <b>Pencil button</b> above the file viewer to open the editor on this particular locale file. If you cannot click on the pencil button because it is greyed out, you must go back and verify the email address on your Github account first.<br>
