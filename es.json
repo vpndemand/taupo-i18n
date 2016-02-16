@@ -294,5 +294,121 @@
   "pushNotificationsDisallowed": {
     "message": "Usted prohibido este sitio muestre notificaciones. Debe volver a habilitar este permiso para utilizar esta función.",
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
+  },
+  "pageAboutTextAbout": {
+    "message": "Este sitio es proporcionado por la Biblioteca Nacional de Medicina de Estados Unidos, en Bethesda, Maryland. NLM es parte de los Institutos Nacionales de Salud, Departamento de Salud y Servicios Humanos de los Estados Unidos, y tiene en su misión el desarrollo y la coordinación de la tecnología de la comunicación para mejorar la prestación de los servicios de salud. Este sitio se proporciona con el fin de estudiar la utilidad de este tipo de herramientas en la respuesta a los desastres. La tecnología subyacente fue desarrollado a través del proyecto perdió el buscador persona, parte de la contribución de la NLM para Asociación de Preparación de Emergencia de los Hospitales de Bethesda. La asociación recibió fondos federales inicial para LPF y otra NLM proyectos de TI en 2008. El proyecto LPF está soportado actualmente por el Programa de Investigación Intramural del NIH, a través del Centro Nacional Lister Hill de la NLM para las Comunicaciones Biomédicas. El desarrollo de software es encabezada por Comunicación Subdirección de Ingeniería de LHNCBC, con contenido adicional de ordenador Rama de Ciencias de LHNCBC y el Centro de Investigación de Desastres Gestión de la Información, parte de Servicios Especializados de Información de la NLM.",
+    "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
+  },
+  "pageAboutTextBrowser": {
+    "message": "Debe tener cookies y JavaScript en su navegador web. También debe tener una de las dos versiones más recientes de los siguientes navegadores: Chrome, Firefox, Safari, Opera, Edge, o Internet Explorer.",
+    "context": "This is the text on the About page describing web browsers support."
+  },
+  "pageAboutHeaderBrowser": {
+    "message": "Soporte para el navegador",
+    "context": "On the About page, section header title Browser Support."
+  },
+  "pageAboutHeaderFAQ": {
+    "message": "Hojas de datos y Preguntas más frecuentes",
+    "context": "On the About page, this is the link to datasheets and the FAQ."
+  },
+  "pageAboutFAQ": {
+    "message": "Preguntas Frecuentes",
+    "context": "Frequently Asked Questions link title on About page."
+  },
+  "pagePrivacyText1": {
+    "message": "A menos que se indique lo contrario, los datos basados en la comunidad contenidas en este sitio Web están disponibles al público y se pueden buscar por todos los visitantes del sitio Web. Los datos pueden ser recibidas de diversas fuentes, como se indica en los registros individuales de la notificación directa a través de la NLM :",
+    "context": "This is the first text paragraph on the Privacy page describing how user data is handled."
+  },
+  "pagePrivacyText2a": {
+    "message": "Las presentaciones a la",
+    "context": "Beginning of the second paragraph on the Privacy page."
+  },
+  "pagePrivacyText2b": {
+    "message": "sitio no son moderados y no se debe esperar otras organizaciones que contribuyen a revisar o verificar la exactitud de cualquiera de los datos que se presentan en este sitio Web. Tenga en cuenta que los datos recibidos por la presentación directa de",
+    "context": "Large portion of the second paragraph of the Privacy page."
+  },
+  "pagePrivacyText2c": {
+    "message": "podrá difundirse a otros organismos, instituciones y organizaciones de asistencia a los esfuerzos para localizar a personas desaparecidas, incluyendo pero no limitado a la",
+    "context": "End portion of the second paragraph of the Privacy page."
+  },
+  "pagePrivacyText3a": {
+    "message": "Para las transmisiones directas a",
+    "context": "Beginning of the third paragraph on the Privacy page."
+  },
+  "pagePrivacyText3b": {
+    "message": "del reportero dirección de correo electrónico y el ID de dispositivo se mantendrá, pero no se mostrará públicamente.",
+    "context": "End of the third paragraph on the Privacy page."
+  },
+  "pagePrivacyText4": {
+    "message": "En general Protección de datos de la NLM",
+    "context": "Text for the link to NLM's privacy policy page."
+  },
+  "the": {
+    "message": "la",
+    "context": "The word the."
+  },
+  "backButton": {
+    "message": "ESPALDA",
+    "context": "The text label for all buttons allowing the user to navigate back."
+  },
+  "pagePrivacyBullet1": {
+    "message": "función de informe",
+    "context": "The second half ot the first bullet point on the Privacy page."
+  },
+  "pagePrivacyBullet2": {
+    "message": "solicitud",
+    "context": "The word application as it applies to the ReUnite app."
+  },
+  "pagePrivacyBullet3": {
+    "message": "otras organizaciones sindicados",
+    "context": "The fourth bullet point on the Privacy page."
+  },
+  "pageResourcesTitle1": {
+    "message": "Encuentra familia y amigos",
+    "context": "The first section title on the Resources page."
+  },
+  "pageResourcesTitle2": {
+    "message": "Recursos de desastre",
+    "context": "The second section title on the Resources page."
+  },
+  "pageResourcesTitle3": {
+    "message": "Recursos de inundación",
+    "context": "The third section title on the Resources page."
+  },
+  "pageResourcesTitle4": {
+    "message": "Recursos tornado",
+    "context": "The fourth section title on the Resources page."
+  },
+  "pageResourcesFamily1": {
+    "message": "Cruz Roja y listas de Bien",
+    "context": "First bullet link in the Family and Friends section of the Resource page."
+  },
+  "pageResourcesFamily2": {
+    "message": "Registro Familiar Agencia Federal para el Manejo de Emergencia Nacional de Emergencia y el sistema de localización",
+    "context": "Second bullet link in the Family and Friends section of the Resource page."
+  },
+  "pageResourcesFamily3": {
+    "message": "A continuación del Registro Nacional Kin",
+    "context": "Third bullet link in the Family and Friends section of the Resource page."
+  },
+  "pageResourcesFamily4": {
+    "message": "Comité Internacional de la Cruz Roja restablecimiento del contacto entre familiares",
+    "context": "fourth buller link in the Family and Friends section of the Resource page."
+  },
+  "pageResourcesFromDIMRC": {
+    "message": "Desastres de la NLM de Información de Gestión del Centro de Investigación",
+    "context": "Text label for several links to DIMRC on the Resource page."
+  },
+  "pageResourcesDisaster2": {
+    "message": "Asistencia para desastres",
+    "context": "Second bullet link on the Disaster section of the Resource page."
+  },
+  "pageResourcesDisaster3": {
+    "message": "Cruz Roja ofrece un espacio y Alimentación",
+    "context": "Third buller link on the Disaster section of the Resource page."
+  },
+  "pageResourcesFromMedlinePlus": {
+    "message": "A partir de la NLM MedlinePlus",
+    "context": "Text label for several links to Medline Plus on the Resource page."
   }
 }
