@@ -10,10 +10,10 @@ If you would like to help us by proposing a translation then please follow the b
 <tr><td><b>Locale File</b></td><td><b>Language</b></td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/en.json" target="_blank">en.json</a></td><td>English (BASE)</td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/es.json" target="_blank">es.json</a></td><td>Spanish</td></tr>
-<tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/fa.json" target="_blank">fa.json</a></td><td>Persian</td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/fr.json" target="_blank">fr.json</a></td><td>French</td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/hi.json" target="_blank">hi.json</a></td><td>Hindi</td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/ta.json" target="_blank">ta.json</a></td><td>Tamil</td></tr>
+<tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/ur.json" target="_blank">ur.json</a></td><td>Urdu</td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/vi.json" target="_blank">vi.json</a></td><td>Vietnamese</td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/zh_CN.json" target="_blank">zh_CN.json</a></td><td>Chinese (China)</td></tr>
 <tr><td><a href="https://github.com/triune/taupo-i18n/blob/master/zh_TW.json" target="_blank">zh_TW.json</a></td><td>Chinese (Taiwan)</td></tr>
