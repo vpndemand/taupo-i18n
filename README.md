@@ -1,5 +1,5 @@
 ### taupo-i18n
-### Internationalization libraries for the Taupo project
+### internationalization (i18n) libraries for the Taupo project
 <br>
 If you would like to help us by proposing a translation then please follow the below steps...<br>
 <br>
