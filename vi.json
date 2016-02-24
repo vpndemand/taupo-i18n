@@ -20,7 +20,7 @@
     "context": "A label for a button allowing a user to access the Administraion module."
   },
   "linkAbout": {
-    "message": "About",
+    "message": "Giới Thiệu",
     "context": "The link text for the About link."
   },
   "linkPrivacy": {
@@ -64,23 +64,23 @@
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "plusError2": {
-    "message": "Lỗi: Tài khoản của bạn tạm thời bị khóa cho nhiều lần thất bại trong việc đăng nhập, hãy thử lại sau",
-    "context": "Error message presented when a user fails to login repeatedly."
+    "message": "Lỗi: Tài khoản của bạn tạm thời bị khóa sau nhiều lần thất bại trong việc đăng nhập, hãy thử lại sau",
+    "context": "Error message presented when a user fails to login repeatedly." 
   },
   "plusError6": {
-    "message": "Lỗi: người dùng đã tồn tại với địa chỉ email được cung cấp",
+    "message": "Lỗi: người dùng đã tồn tại với địa chỉ email cung cấp",
     "context": "Error message presented when user tries to use an email address already in use."
   },
   "plusError7": {
-    "message": "Lỗi: tên người dùng mà bạn cung cấp không có sẵn",
+    "message": "Lỗi: tên người dùng mà bạn cung cấp không có",
     "context": "Error message presented when a user attempts to register with a username that is already in use by another user."
   },
   "plusError8": {
-    "message": "Lỗi: địa chỉ email không hợp lệ",
+    "message": "Lỗi: địa chỉ thư điện tử không hợp lệ",
     "context": "Error message presented when a user provides an invalid email address."
   },
   "plusError9": {
-    "message": "Lỗi: Mật khẩu phải có 8-16 ký tự, phải có ít nhất một chữ hoa, chữ thường một, và một ký tự số",
+    "message": "Lỗi: Mật khẩu phải có 8-16 ký tự, phải có ít nhất một chữ hoa, một chữ thường và một ký tự số",
     "context": "Error message presented when user enters an invalid password."
   },
   "plusError11": {
@@ -88,7 +88,7 @@
     "context": "Error message presented when user attempts to reset password with an unregistered email address."
   },
   "plusError14": {
-    "message": "Lỗi: kết quả kiểm tra xác nhận con người không chính xác, vui lòng tải lại trang",
+    "message": "Lỗi: kết quả kiểm tra xác nhận người dùng không chính xác, vui lòng tải lại trang",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
   "plusError15": {
@@ -96,7 +96,7 @@
     "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue."
   },
   "plusError16": {
-    "message": "Lỗi: mật khẩu không phù hợp",
+    "message": "Lỗi: mật khẩu không đúng",
     "context": "Error message presented when entered password do not match one another."
   },
   "plusError20": {
@@ -104,11 +104,11 @@
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
   "plusError21": {
-    "message": "Lỗi: Mật khẩu phải chứa ít nhất một chữ cái viết hoa (A-Z)",
+    "message": "Lỗi: Mật khẩu phải chứa ít nhất một chữ hoa (A-Z)",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
   "plusError22": {
-    "message": "Lỗi: Mật khẩu phải chứa ít nhất một chữ cái thường (a-z)",
+    "message": "Lỗi: Mật khẩu phải chứa ít nhất một chữ thường (a-z)",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
   "plusError23": {
@@ -120,19 +120,19 @@
     "context": "Error message presented when there is a network / internet issue."
   },
   "plusError600": {
-    "message": "Lỗi: Không thể theo dõi một  tài khoản mà không tồn tại hoặc bạn không có quyền truy cập",
+    "message": "Lỗi: Không thể theo một  tài khoản mà không tồn tại hoặc bạn không có quyền truy cập",
     "context": "Error message presented when user attempts to follow a record they have no permission to access."
   },
   "plusError601": {
-    "message": "Lỗi: Không thể theo dõi tài khoản này vì bạn đang theo dõi nó rồi",
+    "message": "Lỗi: Không thể theo tài khoản này vì bạn đang theo nó rồi",
     "context": "Error message presented when attempting to follow a record the user is already following."
   },
   "plusError602": {
-    "message": "Lỗi: Không thể huỷ theo dõi tài khoản này vì bạn không theo dõi nó",
+    "message": "Lỗi: Không thể huỷ theo tài khoản này vì bạn không đang theo nó",
     "context": "Error message presented when "
   },
   "plusError9999": {
-    "message": "Một lỗi không rõ đã xảy ra.",
+    "message": "Một lỗi không rỏ đã xảy ra.",
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
@@ -140,7 +140,7 @@
     "context": "This error will be displayed when an error is encountered while loading the user subscription information."
   },
   "errorUnsubscribing": {
-    "message": "Có lỗi khi huỷ đăng ký.",
+    "message": "Có lỗi khi huỷ thuê bao.",
     "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
@@ -148,7 +148,7 @@
     "context": "This notification will appear after the user successfully logs in."
   },
   "notifyLoginAdmin": {
-    "message": "Đăng nhập thành công, để truy cập vào các sự kiện đặc quyền hoặc môdule xin vui lòng tải lại trang.",
+    "message": "Đăng nhập thành công, để truy cập vào các sự kiện đặc quyền hoặc ứng dụng xin vui lòng tải lại trang.",
     "context": "This notification will appear after an administrator successfully logs in."
   },
   "notifyRegister": {
@@ -164,7 +164,7 @@
     "context": "This notification will appear after the user successfully changes their password."
   },
   "notifyRecordUnfollowed": {
-    "message": "Tài khoản đã được ngừng theo dõi.",
+    "message": "Tài khoản đã được ngừng theo.",
     "context": "This notification will appear after the user unfollows a particular record."
   },
   "notifyUnsubscribed": {
@@ -188,7 +188,7 @@
     "context": "This is the name of the second tab of the user dialog allowing a user to register."
   },
   "pad1forgotText": {
-    "message": "Nhập địa chỉ email của bạn và chúng tôi sẽ gửi cho bạn các hướng dẫn làm thế nào để thiết lập lại mật khẩu của bạn.",
+    "message": "Nhập địa chỉ email của bạn và chúng tôi sẽ gửi cho bạn hướng dẫn làm thế nào để thiết lập lại mật khẩu của bạn.",
     "context": "This text informs the user of what they must do in order to reset their password ~ they must enter their email address."
   },
   "pad1forgotSend": {
@@ -208,11 +208,11 @@
     "context": "This is the placeholder text for the password input."
   },
   "pad1registerEmailPlaceholder": {
-    "message": "E-mail",
+    "message": "Thư điện tử",
     "context": "This is the placeholder text for the email input."
   },
   "pad1registerText": {
-    "message": "Mật khẩu của bạn phải chứa một con số, một chữ viết thường, một chữ cái viết hoa, và có 8-16 ký tự.",
+    "message": "Mật khẩu của bạn phải chứa một con số, một chữ viết thường, một chữ viết hoa, và có 8-16 ký tự.",
     "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
   },
   "pad2notice": {
@@ -224,7 +224,7 @@
     "context": "These are the first two sentences of the OMB notice."
   },
   "pad2text": {
-    "message": "Gánh nặng báo cáo công khai  cho bộ sưu tập thông tin này được ước tính trung bình 3 phút mỗi phản hồi. Ước tính này bao gồm thời gian để xem xét hướng dẫn, thu thập và nhập dữ liệu. Cơ quan không được tiến hành hoặc nhà tài trợ, và một người không cần phải trả lời, một tập hợp các thông tin trừ khi nó hiển thị một số kiểm soát OMB hợp lệ. Gửi ý kiến về việc này ước tính gánh nặng hoặc bất kỳ khía cạnh khác của bộ sưu tập của thông tin này, trong đó có đề xuất để giảm gánh nặng này, để:",
+    "message": "Gánh nặng báo cáo công khai cho bộ sưu tập thông tin này được ước tính trung bình 3 phút mỗi phản hồi. Ước tính này bao gồm thời gian để xem xét hướng dẫn, thu thập và nhập dữ liệu. Cơ quan không được tiến hành hoặc nhà tài trợ, và một người không cần phải trả lời, một tập hợp các thông tin trừ khi nó hiển thị một số kiểm soát OMB hợp lệ. Gửi ý kiến về việc này ước tính gánh nặng hoặc bất kỳ khía cạnh khác của bộ sưu tập của thông tin này, trong đó có đề xuất để giảm gánh nặng này, để:",
     "context": "This is the main paragraph of the OMB notice."
   },
   "pad2sub": {
@@ -244,23 +244,23 @@
     "context": "This word is displayed when the following records tab is loading results from the server."
   },
   "pad3emptyFollow": {
-    "message": "Bạn không theo dõi bất cứ tài khoản.",
+    "message": "Bạn không theo bất cứ tài khoản.",
     "context": "This verbiage is displayed when the following records panel is displayed and the user is not following any records."
   },
   "pad3unFollow": {
-    "message": "Ngừng theo dõi",
+    "message": "Ngừng theo",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
   "pad3subStatusUnsubscribed": {
-    "message": "Huỷ theo dõi",
+    "message": "Ngừng đăng ký thuê bao",
     "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
   },
   "pad3subStatusSubscribed": {
-    "message": "Theo dõi",
+    "message": "Đăng ký thuê bao",
     "context": "This text label tells the status of the user being subscribed to recieve notifications."
   },
   "pad3subscribeTo": {
-    "message": "Theo dõi thông báo",
+    "message": "Đăng ký để được thông báo",
     "context": "This is the title text to the section that allows a user to opt-in to recieve push notifications."
   },
   "pad3Time": {
@@ -272,7 +272,7 @@
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3passwordRequirements": {
-    "message": "Mật khẩu của bạn phải chứa một con số, một chữ viết thường, một chữ cái viết hoa, và có 8-16 ký tự.",
+    "message": "Mật khẩu của bạn phải chứa một con số, một chữ viết thường, một chữ viết hoa, và có 8-16 ký tự.",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3oldPasswordPlaceholder": {
@@ -288,19 +288,19 @@
     "context": "This is the placeholder text for the new password again input."
   },
     "pushNotificationsUnsupported": {
-    "message": "Your browser does not support push notifications.",
+    "message": "Trình duyệt của bạn không chức năng push notifications.",
     "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
-    "message": "Bạn cấm trang web này hiển thị thông báo. Bạn phải bật lại sự cho phép này để sử dụng tính năng này.",
+    "message": "Bạn không cho trang web này hiển thị thông báo. Bạn phải cho phép trở lại để sử dụng tính năng này.",
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "pageAboutTextAbout": {
-    "message": "Trang web này được cung cấp bởi Thư viện Quốc gia Hoa Kỳ Y ở Bethesda, Maryland. NLM là một phần của Viện Y tế Quốc gia, Bộ Y tế và Dịch Vụ Nhan Sinh của Hoa Kỳ , và sứ mệnh của chung toi la phát triển và điều phối các công nghệ truyền thông để cải thiện việc cung cấp các dịch vụ y tế. Trang web này được cung cấp cho các mục đích nghiên cứu công dụng của các công cụ như vậy trong viec ứng phó với thiên tai. Các công nghệ cơ bản được phát triển thông qua các dự án Lost Person Finder, một phần đóng góp của NLM cho Bethesda Hospitals' Emergency Preparedness Partnership. Sự hợp tác này đã nhận được tài trợ liên bang ban đầu cho LPF và dự án NLM CNTT khác trong năm 2008. Dự án LPF hiện đang được hỗ trợ bởi Chương trình nghiên cứu nội của NIH, thông qua Trung tâm Quốc gia Lister Hill NLM cho khoa Biomedical Communications. Phát triển phần mềm đứng đầu boi Chi nhánh Kỹ thuật Truyền thông LHNCBC, với nội dung bổ sung từ Chi nhánh LHNCBC của  khoa Khoa học Máy tính và Trung tâm Nghiên cứu Quản lý thông tin ve thiên tai, một phần của Dịch vụ Thông tin chuyên ngành NLM.",
+    "message": "Trang web này được cung cấp bởi National Library of Medicine ở Bethesda, Maryland. NLM là một phần của Viện Y tế Quốc gia, Bộ Y tế và Dịch Vụ Nhân Sinh của Hoa Kỳ, và sứ mệnh của chúng tôi là phát triển và điều phối các công nghệ truyền thông để cải thiện việc cung cấp các dịch vụ y tế. Trang web này được cung cấp cho các mục đích nghiên cứu công dụng của các công cụ như vậy trong viec ứng phó với thiên tai. Các công nghệ cơ bản được phát triển thông qua các dự án Lost Person Finder, một phần đóng góp của NLM cho Bethesda Hospitals' Emergency Preparedness Partnership. Sự hợp tác này đã nhận được tài trợ liên bang ban đầu cho LPF và dự án NLM CNTT khác trong năm 2008. Dự án LPF hiện đang được hỗ trợ bởi Chương trình nghiên cứu nội của NIH, thông qua Trung tâm Quốc gia Lister Hill NLM cho khoa Biomedical Communications. Phát triển phần mềm đứng đầu boi Chi nhánh Kỹ thuật Truyền thông LHNCBC, với nội dung bổ sung từ Chi nhánh LHNCBC của  khoa Khoa học Máy tính và Trung tâm Nghiên cứu Quản lý thông tin ve thiên tai, một phần của Dịch vụ Thông tin chuyên ngành NLM.",
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
-    "message": "Bạn phải có cookie và bật JavaScript trong trình duyệt web của bạn. Bạn cũng phải có một trong hai phiên bản gần đây nhất của các trình duyệt web sau: Chrome, Firefox, Safari, Opera, Edge, hoặc Internet Explorer.",
+    "message": "Bạn phải có cookie và JavaScript bật lên trong trình duyệt web của bạn. Bạn cũng phải có một trong hai phiên bản gần đây nhất của các trình duyệt web sau: Chrome, Firefox, Safari, Opera, Edge, hoặc Internet Explorer.",
     "context": "This is the text on the About page describing web browsers support."
   },
   "pageAboutHeaderBrowser": {
@@ -324,7 +324,7 @@
     "context": "Beginning of the second paragraph on the Privacy page."
   },
   "pagePrivacyText2b": {
-    "message": "Trang web không được kiểm duyệt và tổ chức góp vốn khác không nên dự kiến de xem xét, xác định tính chính xác của bất kỳ dữ liệu được trình bày trên trang web này. Lưu ý rằng dữ liệu nhận được nộp trực tiếp đến",
+    "message": "Trang web không được kiểm duyệt và tổ chức góp vốn khác không nên dự kiến để xem xét, xác định tính chính xác của bất kỳ dữ liệu được trình bày trên trang web này. Lưu ý rằng dữ liệu nhận được nộp trực tiếp đến",
     "context": "Large portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText2c": {
@@ -376,11 +376,11 @@
     "context": "The third section title on the Resources page."
   },
   "pageResourcesTitle4": {
-    "message": "Thông tin Vòi rồng",
+    "message": "Thông tin Vòi Rồng",
     "context": "The fourth section title on the Resources page."
   },
   "pageResourcesFamily1": {
-    "message": "Danh sách An Toàn cua Hội Hồng Thập Tự",
+    "message": "Danh sách An Toàn của Hội Hồng Thập Tự",
     "context": "First bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily2": {
@@ -388,15 +388,15 @@
     "context": "Second bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily3": {
-    "message": "Tiếp theo của Kin Quốc Registry",
+    "message": "Danh sách đăng ký quốc gia cho người thân họ hàng",
     "context": "Third bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily4": {
-    "message": "Ủy ban Quốc tế  cho liên kết khôi phục gia đình của Hội Hồng Thập Tự",
+    "message": "Ủy ban Quốc tế cho liên kết khôi phục gia đình của Hội Hồng Thập Tự",
     "context": "fourth buller link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFromDIMRC": {
-    "message": "Từ Trung tâm Nghiên cứu Quản lý thông tin thiên tai NLM",
+    "message": "Từ Trung tâm Nghiên cứu Quản lý thông tin thiên tai của NLM",
     "context": "Text label for several links to DIMRC on the Resource page."
   },
   "pageResourcesDisaster2": {
@@ -404,11 +404,11 @@
     "context": "Second bullet link on the Disaster section of the Resource page."
   },
   "pageResourcesDisaster3": {
-    "message": "Hội Hồng Thập Tự Cung cấp nơi tạm trú và ăn uống",
+    "message": "Hội Hồng Thập Tự cung cấp nơi trú ăn và thực phẩm", 
     "context": "Third buller link on the Disaster section of the Resource page."
   },
   "pageResourcesFromMedlinePlus": {
-    "message": "Từ MedlinePlus NLM",
+    "message": "Từ MedlinePlus của NLM",
     "context": "Text label for several links to Medline Plus on the Resource page."
   }
 }
