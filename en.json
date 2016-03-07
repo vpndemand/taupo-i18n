@@ -410,5 +410,17 @@
   "pageResourcesFromMedlinePlus": {
     "message": "From NLM's MedlinePlus",
     "context": "Text label for several links to Medline Plus on the Resource page."
+  },
+  "followUs": {
+    "message": "Follow us on...",
+    "context": "Used to prompt user to follow us on a social network of their choice."
+  },
+  "and": {
+    "message": "and",
+    "context": "The word and used between two nouns."
+  },
+  "trademarkText": {
+    "message": "are registered trademarks of the U.S. Department of Health & Human Services.",
+    "context": "The second half of the trademark sentence."
   }
 }
