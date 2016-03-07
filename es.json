@@ -410,5 +410,17 @@
   "pageResourcesFromMedlinePlus": {
     "message": "A partir de la NLM MedlinePlus",
     "context": "Text label for several links to Medline Plus on the Resource page."
+  },
+  "followUs": {
+    "message": "Siga con nosotros...",
+    "context": "Used to prompt user to follow us on a social network of their choice."
+  },
+  "and": {
+    "message": "y",
+    "context": "The word and used between two nouns."
+  },
+  "trademarkText": {
+    "message": "son marcas comerciales registradas de el Departamento de Salud y Servicios Humanos de EE.UU.",
+    "context": "The second half of the trademark sentence."
   }
 }
