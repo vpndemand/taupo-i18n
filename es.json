@@ -32,7 +32,7 @@
     "context": "The link text for the Accessibility link."
   },
   "linkContact": {
-    "message": "Contactar",
+    "message": "Contáctenos",
     "context": "The link text for the Contact link."
   },
   "linkApps": {
@@ -52,7 +52,7 @@
     "context": "The link text for the Trademark link."
   },
   "textTrademark": {
-    "message": "PEOPLE LOCATOR, ReUnite, and TriagePic son marcas comerciales registradas de el Departamento de Salud y Servicios Humanos de Estados Unidos.",
+    "message": "PEOPLE LOCATOR, ReUnite y TriagePic son marcas comerciales registradas del Departamento de Salud y Servicios Humanos de Estados Unidos.",
     "context": "Verbiage describing the three registered trademarks we hold on People Locator."
   },
   "expirationDate": {
@@ -60,11 +60,11 @@
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
   "plusError1": {
-    "message": "Error: Nombre de usuario o contraseña no válidos",
+    "message": "Error: Nombre de usuario o contraseña inválidos",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "plusError2": {
-    "message": "Error: la cuenta está bloqueada temporalmente por repetida, no ingresar, intente más tarde",
+    "message": "Error: la cuenta está bloqueada temporalmente por uso repetido de nombre de usuario o contraseña erróneos, intente más tarde",
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "plusError6": {
@@ -72,7 +72,7 @@
     "context": "Error message presented when user tries to use an email address already in use."
   },
   "plusError7": {
-    "message": "Error: el nombre de usuario que ya ha proporcionado no está disponible",
+    "message": "Error: el nombre de usuario que ha proporcionado no está disponible",
     "context": "Error message presented when a user attempts to register with a username that is already in use by another user."
   },
   "plusError8": {
@@ -84,15 +84,15 @@
     "context": "Error message presented when user enters an invalid password."
   },
   "plusError11": {
-    "message": "Error: la dirección de correo electrónico proporcionada no está asociado con cualquier cuenta de usuario",
+    "message": "Error: la dirección de correo electrónico proporcionada no está asociada con ninguna cuenta de usuario",
     "context": "Error message presented when user attempts to reset password with an unregistered email address."
   },
   "plusError14": {
-    "message": "Error: resultado de la prueba de validación humana incorrecto, por favor vuelva a cargar la página",
+    "message": "Error: resultado de la prueba de validación humana incorrecta, por favor vuelva a cargar la página",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
   "plusError15": {
-    "message": "Error: sesión reCaptcha caducado, por favor vuelva a cargar la página",
+    "message": "Error: sesión reCaptcha caducada, por favor vuelva a cargar la página",
     "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue."
   },
   "plusError16": {
@@ -136,11 +136,11 @@
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
-    "message": "Error al obtener información de suscripción. Por favor recarga la página.",
+    "message": "Error al obtener información de subscripción. Por favor vuelva a cargar la página",
     "context": "This error will be displayed when an error is encountered while loading the user subscription information."
   },
   "errorUnsubscribing": {
-    "message": "Hubo un error al darse de baja.",
+    "message": "Hubo un error al intentar cancelar la subscripción",
     "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
@@ -168,11 +168,11 @@
     "context": "This notification will appear after the user unfollows a particular record."
   },
   "notifyUnsubscribed": {
-    "message": "Ya no estás suscrito para recibir notificaciones.",
+    "message": "Ya no está subscrito para recibir notificaciones.",
     "context": "This notification will appear after the user unsubscribed from recieving notifications."
   },
   "notifySubscribed": {
-    "message": "Ahora está suscrito para recibir notificaciones.",
+    "message": "Ahora está subscrito para recibir notificaciones.",
     "context": "This notification will appear after the user subscribes to recieving notifications."
   },
   "notifyResetPassword": {
@@ -196,7 +196,7 @@
     "context": "This is the text label on the forgot my password dialog to submit the form."
   },
   "pad1loginForgot": {
-    "message": "Olvidaste tu nombre de usuario o contraseña ?",
+    "message": "¿Olvidó su nombre de usuario o contraseña?",
     "context": "This is the text label for the forgot my password button on the login dialog."
   },
   "pad1loginUsernamePlaceholder": {
@@ -224,7 +224,7 @@
     "context": "These are the first two sentences of the OMB notice."
   },
   "pad2text": {
-    "message": "La carga pública para esta recopilación de información se estima en un promedio de 3 minutos por respuesta. Esta estimación incluye el tiempo para revisar las instrucciones, la recolección y la introducción de datos. Una agencia no puede realizar o patrocinar, y una persona no está obligada a responder a una solicitud de información a menos que muestre un número de control OMB válido. Los comentarios sobre el estimado de tiempo o cualquier otro aspecto de esta recopilación de información, incluyendo sugerencias para reducir esta carga, a:",
+    "message": "El tiempo de la recopilación de información se estima en un promedio de 3 minutos por respuesta. El cálculo incluye el tiempo para revisar las instrucciones, la recolección y la introducción de datos. Una agencia no puede realizar o patrocinar, y una persona no está obligada a responder a una solicitud de información a menos que muestre un número de control OMB válido. Envíe los comentarios sobre el cálculo de tiempo o cualquier otro aspecto de esta recopilación de información, incluyendo sugerencias para reducir esta carga, a:",
     "context": "This is the main paragraph of the OMB notice."
   },
   "pad2sub": {
@@ -232,7 +232,7 @@
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
-    "message": "Siguientes Registros",
+    "message": "Siguientes registros",
     "context": "This is the name of the first tab of user preferences that shows which records a user is following."
   },
   "pad3settings": {
@@ -256,11 +256,11 @@
     "context": "This text label tells the status of the user's subscription to recieve notifications."
   },
   "pad3subStatusSubscribed": {
-    "message": "SUSCRITO",
+    "message": "SUBSCRITO",
     "context": "This text label tells the status of the user being subscribed to recieve notifications."
   },
   "pad3subscribeTo": {
-    "message": "Suscribirse a las notificaciones",
+    "message": "Subscribirse a las notificaciones",
     "context": "This is the title text to the section that allows a user to opt-in to recieve push notifications."
   },
   "pad3Time": {
@@ -276,15 +276,15 @@
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3oldPasswordPlaceholder": {
-    "message": "Anterior Contraseña",
+    "message": "Contraseña antigua",
     "context": "This is the placeholder text for the old password input."
   },
   "pad3newPassword1Placeholder": {
-    "message": "Nueva Contraseña",
+    "message": "Nueva contraseña",
     "context": "This is the placeholder text for the new password input."
   },
   "pad3newPassword2Placeholder": {
-    "message": "Nueva Contraseña de Nuevo",
+    "message": "Nueva contraseña de nuevo",
     "context": "This is the placeholder text for the new password again input."
   },
   "pushNotificationsUnsupported": {
@@ -292,15 +292,15 @@
     "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
-    "message": "Usted prohibido este sitio muestre notificaciones. Debe volver a habilitar este permiso para utilizar esta función.",
+    "message": "Usted canceló las notificaciones. Debe volver a habilitar este permiso para utilizar esta función.",
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "pageAboutTextAbout": {
-    "message": "Este sitio es proporcionado por la Biblioteca Nacional de Medicina de Estados Unidos, en Bethesda, Maryland. NLM es parte de los Institutos Nacionales de Salud, Departamento de Salud y Servicios Humanos de los Estados Unidos, y tiene en su misión el desarrollo y la coordinación de la tecnología de la comunicación para mejorar la prestación de los servicios de salud. Este sitio se proporciona con el fin de estudiar la utilidad de este tipo de herramientas en la respuesta a los desastres. La tecnología subyacente fue desarrollado a través del proyecto perdió el buscador persona, parte de la contribución de la NLM para Asociación de Preparación de Emergencia de los Hospitales de Bethesda. La asociación recibió fondos federales inicial para LPF y otra NLM proyectos de TI en 2008. El proyecto LPF está soportado actualmente por el Programa de Investigación Intramural del NIH, a través del Centro Nacional Lister Hill de la NLM para las Comunicaciones Biomédicas. El desarrollo de software es encabezada por Comunicación Subdirección de Ingeniería de LHNCBC, con contenido adicional de ordenador Rama de Ciencias de LHNCBC y el Centro de Investigación de Desastres Gestión de la Información, parte de Servicios Especializados de Información de la NLM.",
+    "message": "Esta aplicación  está proporcionada por la Biblioteca Nacional de Medicina de los Estados Unidos, en Bethesda, Maryland. NLM es parte de los Institutos Nacionales de Salud, Departamento de Salud y Servicios Humanos de los Estados Unidos, y tiene en su misión el desarrollo y la coordinación de la tecnología de la comunicación para mejorar la prestación de los servicios de salud. Este sitio se proporciona con el fin de estudiar la utilidad de este tipo de herramientas en respuesta a los desastres. La tecnología subyacente fue desarrollado a través del proyecto perdió el buscador persona, parte de la contribución de la NLM para Asociación de Preparación de Emergencia de los Hospitales de Bethesda. La asociación recibió fondos federales iniciales para LPF y otros proyectos de NLM de TI en 2008. El proyecto LPF está apoyado actualmente por el Programa de Investigación Intramural del NIH, a través del Centro Nacional Lister Hill de la NLM para las Comunicaciones Biomédicas. El desarrollo de software está encabezada por la Subdirección de  Comunicación de Ingeniería de LHNCBC, con contenido adicional de la rama de Ciencias Informáticas de LHNCBC y el Centro de Investigación de Desastres Gestión de la Información, parte de los Servicios Especializados de Información de la NLM.",
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
-    "message": "Debe tener cookies y JavaScript en su navegador web. También debe tener una de las dos versiones más recientes de los siguientes navegadores: Chrome, Firefox, Safari, Opera, Edge, o Internet Explorer.",
+    "message": "Debe tener cookies y JavaScript habilitados  en su navegador y la version más reciente de uno de los siguientes navegadores: Chrome, Firefox, Safari, Opera, Edge o Internet Explorer.",
     "context": "This is the text on the About page describing web browsers support."
   },
   "pageAboutHeaderBrowser": {
@@ -308,11 +308,11 @@
     "context": "On the About page, section header title Browser Support."
   },
   "pageAboutHeaderFAQ": {
-    "message": "Hojas de datos y Preguntas más frecuentes",
+    "message": "Hojas de datos y preguntas frecuentes",
     "context": "On the About page, this is the link to datasheets and the FAQ."
   },
   "pageAboutFAQ": {
-    "message": "Preguntas Frecuentes",
+    "message": "Preguntas frecuentes",
     "context": "Frequently Asked Questions link title on About page."
   },
   "pagePrivacyText1": {
@@ -320,11 +320,11 @@
     "context": "This is the first text paragraph on the Privacy page describing how user data is handled."
   },
   "pagePrivacyText2a": {
-    "message": "Las presentaciones a la",
+    "message": "Comentarios",
     "context": "Beginning of the second paragraph on the Privacy page."
   },
   "pagePrivacyText2b": {
-    "message": "sitio no son moderados y no se debe esperar otras organizaciones que contribuyen a revisar o verificar la exactitud de cualquiera de los datos que se presentan en este sitio Web. Tenga en cuenta que los datos recibidos por la presentación directa de",
+    "message": "la página no está moderada,  otras organizaciones contribuyentes no están obligadas  a revisar ni a verificar la exactitud  de la información de esta página. Tenga en cuenta que los datos son recibidos directamente",
     "context": "Large portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText2c": {
@@ -336,7 +336,7 @@
     "context": "Beginning of the third paragraph on the Privacy page."
   },
   "pagePrivacyText3b": {
-    "message": "del reportero dirección de correo electrónico y el ID de dispositivo se mantendrá, pero no se mostrará públicamente.",
+    "message": "la  dirección de correo electrónico y el ID del dispositivo  de la persona que reporta se guardan, pero no son visibles al público.",
     "context": "End of the third paragraph on the Privacy page."
   },
   "pagePrivacyText4": {
@@ -368,15 +368,15 @@
     "context": "The first section title on the Resources page."
   },
   "pageResourcesTitle2": {
-    "message": "Recursos de desastre",
+    "message": "Recursos para desastres",
     "context": "The second section title on the Resources page."
   },
   "pageResourcesTitle3": {
-    "message": "Recursos de inundación",
+    "message": "Recursos para inundaciones",
     "context": "The third section title on the Resources page."
   },
   "pageResourcesTitle4": {
-    "message": "Recursos tornado",
+    "message": "Recursos para tornados",
     "context": "The fourth section title on the Resources page."
   },
   "pageResourcesFamily1": {
@@ -384,11 +384,11 @@
     "context": "First bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily2": {
-    "message": "Registro Familiar Agencia Federal para el Manejo de Emergencia Nacional de Emergencia y el sistema de localización",
+    "message": "Registro Familiar y Sistema de Localización de la  Agencia Federal para la gestión de Emergencias Nacionales",
     "context": "Second bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily3": {
-    "message": "A continuación del Registro Nacional Kin",
+    "message": "Registro Nacional de parientes cercanos",
     "context": "Third bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily4": {
@@ -396,7 +396,7 @@
     "context": "fourth buller link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFromDIMRC": {
-    "message": "Desastres de la NLM de Información de Gestión del Centro de Investigación",
+    "message": "Información del Centro de Investigación de Gestión de Desastres de la NLM",
     "context": "Text label for several links to DIMRC on the Resource page."
   },
   "pageResourcesDisaster2": {
