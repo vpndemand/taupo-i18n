@@ -1,46 +1,46 @@
 {
   "languageSelector": {
-    "message": "Language",
+    "message": "语言",
     "context": "Language as a single word used in the langiage selection menu."
   },
   "chosenLanguage": {
-    "message": "English",
+    "message": "英语",
     "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
   },
   "loginOrRegister": {
-    "message": "Login or Register",
+    "message": "登录或注册",
     "context": "A button that when clicked allows a user to login or register."
   },
   "logout": {
-    "message": "Logout",
+    "message": "退出",
     "context": "A label for a button allowing a user to logout."
   },
   "administration": {
-    "message": "Administration",
+    "message": "管理",
     "context": "A label for a button allowing a user to access the Administraion module."
   },
   "linkAbout": {
-    "message": "About",
+    "message": "关于",
     "context": "The link text for the About link."
   },
   "linkPrivacy": {
-    "message": "Privacy",
+    "message": "隐私",
     "context": "The link text for the Privacy link."
   },
   "linkAccessibility": {
-    "message": "Accessibility",
+    "message": "权限",
     "context": "The link text for the Accessibility link."
   },
   "linkContact": {
-    "message": "Contact",
+    "message": "联系",
     "context": "The link text for the Contact link."
   },
   "linkApps": {
-    "message": "Apps",
+    "message": "应用程序",
     "context": "The link text for the Apps link."
   },
   "linkResources": {
-    "message": "Resources",
+    "message": "资源",
     "context": "The link text for the Resources link."
   },
   "linkFollowUs": {
@@ -48,7 +48,7 @@
     "context": "The link text for the Follow Us link."
   },
   "linkTrademark": {
-    "message": "Trademark",
+    "message": "商标",
     "context": "The link text for the Trademark link."
   },
   "textTrademark": {
