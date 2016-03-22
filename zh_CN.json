@@ -8,7 +8,7 @@
     "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
   },
   "loginOrRegister": {
-    "message": "Login or Register",
+    "message": "登录或注册",
     "context": "A button that when clicked allows a user to login or register."
   },
   "logout": {
