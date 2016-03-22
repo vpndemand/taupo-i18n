@@ -12,11 +12,11 @@
     "context": "A button that when clicked allows a user to login or register."
   },
   "logout": {
-    "message": "Logout",
+    "message": "退出",
     "context": "A label for a button allowing a user to logout."
   },
   "administration": {
-    "message": "Administration",
+    "message": "管理",
     "context": "A label for a button allowing a user to access the Administraion module."
   },
   "linkAbout": {
