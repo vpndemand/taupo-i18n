@@ -28,7 +28,7 @@
     "context": "The link text for the Privacy link."
   },
   "linkAccessibility": {
-    "message": "Accessibility",
+    "message": "权限",
     "context": "The link text for the Accessibility link."
   },
   "linkContact": {
