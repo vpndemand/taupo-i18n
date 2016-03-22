@@ -4,7 +4,7 @@
     "context": "Language as a single word used in the langiage selection menu."
   },
   "chosenLanguage": {
-    "message": "English",
+    "message": "英语",
     "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
   },
   "loginOrRegister": {
