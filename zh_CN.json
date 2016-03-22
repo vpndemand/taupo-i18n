@@ -40,7 +40,7 @@
     "context": "The link text for the Apps link."
   },
   "linkResources": {
-    "message": "Resources",
+    "message": "资源",
     "context": "The link text for the Resources link."
   },
   "linkFollowUs": {
@@ -48,7 +48,7 @@
     "context": "The link text for the Follow Us link."
   },
   "linkTrademark": {
-    "message": "Trademark",
+    "message": "商标",
     "context": "The link text for the Trademark link."
   },
   "textTrademark": {
