@@ -19,6 +19,10 @@
     "message": "Administración",
     "context": "A label for a button allowing a user to access the Administraion module."
   },
+  "linkHelp": {
+    "message": "Ayuda",
+    "context": "This is the text for a link to the Help page."
+  },
   "linkAbout": {
     "message": "Acerca de",
     "context": "The link text for the About link."
@@ -295,6 +299,22 @@
     "message": "Usted canceló las notificaciones. Debe volver a habilitar este permiso para utilizar esta función.",
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
+  "helpFindTitle": {
+    "message": "Ayudar a encontrar a una persona o animal doméstico",
+    "context": "This is the title of the help page section on how to find/search."
+  },
+  "helpFindText": {
+    "message": "-- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE",
+    "context": "This is the help page article body describing in detail how to find/search for a person or pet."
+  },
+  "helpReportTitle": {
+    "message": "Informes ayudar a una persona o animal doméstico",
+    "context": "This is the title of the help page section on how to report."
+  },
+  "helpReportText": {
+    "message": "-- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE",
+    "context": "This is the help page article body describing in detail how to report a person or pet."
+  },
   "pageAboutTextAbout": {
     "message": "Esta aplicación  está proporcionada por la Biblioteca Nacional de Medicina de los Estados Unidos, en Bethesda, Maryland. NLM es parte de los Institutos Nacionales de Salud, Departamento de Salud y Servicios Humanos de los Estados Unidos, y tiene en su misión el desarrollo y la coordinación de la tecnología de la comunicación para mejorar la prestación de los servicios de salud. Este sitio se proporciona con el fin de estudiar la utilidad de este tipo de herramientas en respuesta a los desastres. La tecnología subyacente fue desarrollado a través del proyecto perdió el buscador persona, parte de la contribución de la NLM para Asociación de Preparación de Emergencia de los Hospitales de Bethesda. La asociación recibió fondos federales iniciales para LPF y otros proyectos de NLM de TI en 2008. El proyecto LPF está apoyado actualmente por el Programa de Investigación Intramural del NIH, a través del Centro Nacional Lister Hill de la NLM para las Comunicaciones Biomédicas. El desarrollo de software está encabezada por la Subdirección de  Comunicación de Ingeniería de LHNCBC, con contenido adicional de la rama de Ciencias Informáticas de LHNCBC y el Centro de Investigación de Desastres Gestión de la Información, parte de los Servicios Especializados de Información de la NLM.",
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
@@ -342,6 +362,14 @@
   "pagePrivacyText4": {
     "message": "En general Protección de datos de la NLM",
     "context": "Text for the link to NLM's privacy policy page."
+  },
+  "pagePrivacyText5": {
+    "message": "Acta de Libertad de Información",
+    "context": "Text for the link to the Freedom of Information Act site."
+  },
+  "forMore": {
+    "message": "Para más",
+    "context": "The title for a subsection on the Privacy page with links to more topics."
   },
   "the": {
     "message": "la",
@@ -422,5 +450,25 @@
   "trademarkText": {
     "message": "son marcas comerciales registradas de el Departamento de Salud y Servicios Humanos de EE.UU.",
     "context": "The second half of the trademark sentence."
+  },
+  "tabDisasterEvents": {
+    "message": "Eventos de desastre",
+    "context": "The title of the 1st tab allowing the selection of particular Disaster Events."
+  },
+  "tabFind": {
+    "message": "Encontrar",
+    "context": "The title of the 2nd tab allowing someone to Find a person or pet."
+  },
+  "tabReport": {
+    "message": "Informe",
+    "context": "The title of the 3rd tab allowing someone to Report a new person or pet."
+  },
+  "tagline": {
+    "message": "Encuentra y denuncia de desaparición de la familia, amigos y mascotas durante los desastres.",
+    "context": "The tagline is the summary of what the application is for."
+  },
+  "eventRetired": {
+    "message": "El evento que ha solicitado ya no está activo.",
+    "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
   }
 }
