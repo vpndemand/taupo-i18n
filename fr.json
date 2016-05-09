@@ -7,8 +7,8 @@
     "message": "English",
     "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
   },
-  "loginOrRegister": {
-    "message": "Login or Register",
+  "signIn": {
+    "message": "Sign In",
     "context": "A button that when clicked allows a user to login or register."
   },
   "logout": {
@@ -470,5 +470,85 @@
   "eventRetired": {
     "message": "The event you requested is no longer active.",
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
-  }  
+  },
+  "seoTitle1": {
+    "message": "Find or report persons from",
+    "context": "Part 1 of HTML title and description tags for the home page (e.g. Find or report persons from Ecuador Earthquake)."
+  },
+  "seoTitle2": {
+    "message": "a disaster",
+    "context": "Part 2 of HTML title and description tags for the home page if no active event (e.g. Find or report persons from a disaster)."
+  },
+  "seoTitle3": {
+    "message": "Report missing persons from",
+    "context": "HTML title tags for the report page (e.g. Report persons from Ecuador Earthquake)."
+  },
+  "seoTitle4": {
+    "message": "Find missing persons from",
+    "context": "HTML title and description tags for the search page (e.g. Find missing persons from Ecuador Earthquake)."
+  },
+  "seoTitle5": {
+    "message": "Help finding and reporting missing persons",
+    "context": "HTML title tag for the help page."
+  },
+  "seoTitle6": {
+    "message": "About finding and reporting missing persons",
+    "context": "HTML title tag for the about page."
+  },
+  "seoTitle7": {
+    "message": "Privacy considerations for finding and reporting missing persons",
+    "context": "HTML title tag for the privacy page."
+  },
+  "seoTitle8": {
+    "message": "Resources for finding and reporting missing persons",
+    "context": "HTML title tag for the resources page."
+  },
+  "seoTitle9": {
+    "message": "Record for",
+    "context": "Part 1 of HTML title tag for the full record page (e.g. Record for John Doe)."
+  },
+  "seoTitle10": {
+    "message": "from",
+    "context": "Part 2 of HTML title tag for the full record page (e.g. from Ecuador Earthquake)."
+  },
+  "seoDescription1": {
+    "message": "Report missing or found persons from the",
+    "context": "HTML description tag for the report page (e.g. Report missing or found persons from the Ecuador Earthquake)."
+  },
+  "seoDescription2": {
+    "message": "Help instructions for finding and reporting missing persons",
+    "context": "HTML description tag for the help page."
+  },
+  "seoDescription3": {
+    "message": "About using People Locator to find and report missing persons",
+    "context": "HTML description tag for the about page."
+  },
+  "seoDescription4": {
+    "message": "Privacy considerations for using People Locator to find and report missing persons",
+    "context": "HTML description tag for the privacy page."
+  },
+  "seoDescription5": {
+    "message": "Other resources for finding and reporting missing persons",
+    "context": "HTML description tag for the resources page."
+  },
+  "seoDescription6": {
+    "message": "View and update record for",
+    "context": "Part 1 of HTML description tag for the full record page (e.g. View and update record for John Doe)."
+  },
+  "seoDescription7": {
+    "message": "from the",
+    "context": "Part 2 of HTML description tag for the full record page (e.g. from the Ecuador Earthquake)."
+  },
+  "seoAlt1": {
+    "message": "Photo of",
+    "context": "Part 1 of HTML alt tag for a personal photo (e.g. Photo of John Doe)"
+  },
+  "seoAlt2": {
+    "message": "person",
+    "context": "Part 2 of HTML alt tag for a personal photo (e.g. missing person)"
+  },
+  "seoAlt3": {
+    "message": "reported in",
+    "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
+  }
 }
